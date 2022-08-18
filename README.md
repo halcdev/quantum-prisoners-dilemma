@@ -1,5 +1,5 @@
 # quantum-prisoners-dilemma
-Interactive Quantum Prisoners' Dilemma Game with Python and Tkinter
+Interactive Quantum Prisoners' Dilemma Game with Qiskit and Tkinter
 
 1. clone the repository into some directory on your machine
 
