@@ -16,3 +16,5 @@ Interactive Quantum Prisoners' Dilemma Game with Python and Tkinter
 4. run `qpd_interface.py`. This will open the application interface that you can interact with!
     
     command: `python qpd_interface.py`
+
+5. note: depending on your system settings (light mode / dark mode), the background color of the game interface may change. If the interface text is hard to read because the background color is too dark, try changing your computer display system to light mode.
